@@ -1,2 +1,2 @@
-# HACKNYU-fake-data-detection 
+# HACKNYU-fraud-data-detection 
  
